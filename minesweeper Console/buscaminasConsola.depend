@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1592675415 source:f:\kevin\buscaminas\buscaminasconsola\main.cpp
+	<iostream>
+	<string>
+	"buscaminas.h"
+
+1592675674 source:f:\kevin\buscaminas\buscaminasconsola\buscaminas.cpp
+	"buscaminas.h"
+
+1592675371 f:\kevin\buscaminas\buscaminasconsola\buscaminas.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+
